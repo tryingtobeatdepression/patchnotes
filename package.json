@@ -1,0 +1,19 @@
+{
+	"name": "orm-nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "npx tsc index.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"typescript": "^4.5.3"
+	},
+	"dependencies": {
+		"sequelize": "^6.12.0-beta.3"
+	}
+}
